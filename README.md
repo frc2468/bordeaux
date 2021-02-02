@@ -4,7 +4,6 @@ The latest pathinator code.
 
 
 TODO:
-	- Make path storge location a control
 	- Code documentation/cleanup
 	- Change/clean drawing trajectories
 	- Legend for path colors on front panel
