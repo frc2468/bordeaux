@@ -51,6 +51,7 @@
 			<Item Name="Rotate Rectangle.vi" Type="VI" URL="../Rotate Rectangle.vi"/>
 		</Item>
 		<Item Name="Calculate Accel Distances.vi" Type="VI" URL="../Calculate Accel Distances.vi"/>
+		<Item Name="Convert Overrides.vi" Type="VI" URL="../Convert Overrides.vi"/>
 		<Item Name="Create Segment Velocities.vi" Type="VI" URL="../Create Segment Velocities.vi"/>
 		<Item Name="Field Size.ctl" Type="VI" URL="../Field Size.ctl"/>
 		<Item Name="Plot Euler Spiral.vi" Type="VI" URL="../Plot Euler Spiral.vi"/>
@@ -130,12 +131,15 @@
 			<Item Name="Availible Command systems for auto.ctl" Type="VI" URL="../Command Stuff/Availible Command systems for auto.ctl"/>
 			<Item Name="Boolean to Unit Vector.vi" Type="VI" URL="../Boolean to Unit Vector.vi"/>
 			<Item Name="Calculate Blend Angles.vi" Type="VI" URL="../Calculate Blend Angles.vi"/>
+			<Item Name="Create Stoopid Segment Velocities.vi" Type="VI" URL="../Create Stoopid Segment Velocities.vi"/>
 			<Item Name="Determine Clothoid Values.vi" Type="VI" URL="../Determine Clothoid Values.vi"/>
 			<Item Name="Distance from XY Delta.vi" Type="VI" URL="../Distance from XY Delta.vi"/>
 			<Item Name="Enforce Robot Rules.vi" Type="VI" URL="../Enforce Robot Rules.vi"/>
 			<Item Name="GenNewTraj.vi" Type="VI" URL="../GenNewTraj.vi"/>
 			<Item Name="Get Subsystem Color.vi" Type="VI" URL="../Command Stuff/Get Subsystem Color.vi"/>
+			<Item Name="Globals.vi" Type="VI" URL="../Globals.vi"/>
 			<Item Name="Handle Pos and Rot.vi" Type="VI" URL="../Handle Pos and Rot.vi"/>
+			<Item Name="Limits.ctl" Type="VI" URL="../Limits.ctl"/>
 			<Item Name="Manage Robot Shape.vi" Type="VI" URL="../Manage Robot Shape.vi"/>
 			<Item Name="Manage Waypoint Shape.vi" Type="VI" URL="../Manage Waypoint Shape.vi"/>
 			<Item Name="Map Poly to Pixels.vi" Type="VI" URL="../Map Poly to Pixels.vi"/>
