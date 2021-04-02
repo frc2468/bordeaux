@@ -54,9 +54,14 @@
 		<Item Name="Convert Overrides.vi" Type="VI" URL="../Convert Overrides.vi"/>
 		<Item Name="Create Segment Velocities.vi" Type="VI" URL="../Create Segment Velocities.vi"/>
 		<Item Name="Field Size.ctl" Type="VI" URL="../Field Size.ctl"/>
+		<Item Name="Impose Velocity Limits.vi" Type="VI" URL="../Impose Velocity Limits.vi"/>
 		<Item Name="Plot Euler Spiral.vi" Type="VI" URL="../Plot Euler Spiral.vi"/>
+		<Item Name="Review Recipe for Overlap.vi" Type="VI" URL="../Review Recipe for Overlap.vi"/>
+		<Item Name="Rotate WayPt for Extra Arc.vi" Type="VI" URL="../Rotate WayPt for Extra Arc.vi"/>
+		<Item Name="Single Clothoid Calculation.vi" Type="VI" URL="../Single Clothoid Calculation.vi"/>
 		<Item Name="Speeds.ctl" Type="VI" URL="../Speeds.ctl"/>
 		<Item Name="Trajectory Builder.vi" Type="VI" URL="../Trajectory Builder.vi"/>
+		<Item Name="Update WayPt Angles.vi" Type="VI" URL="../Update WayPt Angles.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Alignment.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Icon API/lv_icon/Controls/Alignment.ctl"/>
@@ -156,18 +161,14 @@
 			<Item Name="Point Test Shapes.vi" Type="VI" URL="../Point Test Shapes.vi"/>
 			<Item Name="Prep for Plotting.vi" Type="VI" URL="../Prep for Plotting.vi"/>
 			<Item Name="Reflect Clothoid Points.vi" Type="VI" URL="../Reflect Clothoid Points.vi"/>
-			<Item Name="Review Recipe for Overlap.vi" Type="VI" URL="../Review Recipe for Overlap.vi"/>
 			<Item Name="Rotate Waypoints Pre.vi" Type="VI" URL="../Rotate Waypoints Pre.vi"/>
 			<Item Name="Rotate WayPt after Arc.vi" Type="VI" URL="../Rotate WayPt after Arc.vi"/>
-			<Item Name="Rotate WayPt for Extra Arc.vi" Type="VI" URL="../Rotate WayPt for Extra Arc.vi"/>
 			<Item Name="Saved Checker.vi" Type="VI" URL="../Saved Checker.vi"/>
 			<Item Name="Scaled Quadrant Vector.vi" Type="VI" URL="../Scaled Quadrant Vector.vi"/>
-			<Item Name="Single Clothoid Calculation.vi" Type="VI" URL="../Single Clothoid Calculation.vi"/>
 			<Item Name="Snap to Baseline.vi" Type="VI" URL="../Snap to Baseline.vi"/>
 			<Item Name="Track Rotation.vi" Type="VI" URL="../Track Rotation.vi"/>
 			<Item Name="Turn Smother.vi" Type="VI" URL="../Turn Smother.vi"/>
 			<Item Name="Update Annotations.vi" Type="VI" URL="../Update Annotations.vi"/>
-			<Item Name="Update WayPt Angles.vi" Type="VI" URL="../Update WayPt Angles.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
