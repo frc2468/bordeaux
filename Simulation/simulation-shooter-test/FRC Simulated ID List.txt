@@ -1,0 +1,291 @@
+Robot
+		ID: FRC Bot_R0
+				Sensor
+						ID: Devantech SRF05_S0,Controller 1,DIO 1,Controller 1,DIO 2
+						ID: IMU_S0,Controller 1,AI 1
+						ID: AXIS M1011_S0
+						ID: Honeywell HMC6343_S0
+				Joint
+						ID: Joint_J0
+						ID: Joint_J1
+						ID: Joint_J2
+						ID: Joint_J3
+						ID: Joint_J4
+						ID: Joint_J5
+						ID: Joint_J6
+						ID: Joint_J7
+						ID: Joint_J8
+						ID: Joint_J9
+						ID: Joint_J14
+						ID: Joint_J15
+						ID: Joint_J16
+						ID: Joint_J17
+						ID: Joint_J18
+						ID: Joint_J19
+						ID: Joint_J20
+						ID: Joint_J21
+						ID: Joint_J23
+						ID: Joint_J24
+						ID: Joint_J25
+						ID: Joint_J26
+						ID: Joint_J27
+						ID: Joint_J28
+						ID: Joint_J29
+						ID: Joint_J30
+						ID: Joint_J31
+						ID: Joint_J22
+						ID: Joint_J32
+						ID: Joint_J10
+						ID: Joint_J11
+						ID: Joint_J12
+						ID: Joint_J13
+						ID: Joint_J33
+						ID: Joint_J34
+						ID: Joint_J35
+						ID: Joint_J36
+						ID: Joint_J37
+						ID: Joint_J38
+						ID: Joint_J39
+						ID: Joint_J40
+						ID: Joint_J41
+						ID: Joint_J42
+						ID: Joint_J43
+						ID: Joint_J44
+						ID: Joint_J45
+						ID: Joint_J46
+						ID: Joint_J47
+						ID: Joint_J50
+						ID: Joint_J51
+						ID: Joint_J53
+						ID: Joint_J52
+						ID: Joint_J48
+						ID: Joint_J49
+						ID: Joint_J54
+				Actuator
+						ID: LeftMotor,PWM 0
+						ID: RightMotor,PWM 1
+						ID: CameraHorizontalServo,Controller 1,PWM 5
+						ID: LeftShooterMotor,PWM 2
+						ID: RightShooterMotor,PWM 3
+						ID: ShooterServo,PWM 4
+						ID: AgitatorServo,PWM 6
+						ID: LeftIntakeMotor,PWM 7
+						ID: Right IntakeMotor,PWM 8
+				Robot Component
+						ID: Body Frame
+						ID: Wheel 1
+						ID: Wheel 2
+						ID: Wheel 3
+						ID: Wheel 4
+						ID: Box
+						ID: Box_O0
+						ID: Left Shooter Wheel
+						ID: Right Shooter Wheel
+						ID: Box_O5
+						ID: Box_O6
+						ID: Box_O7
+						ID: Box_O11
+						ID: Box_O8
+						ID: Box_O9
+						ID: Box_O12
+						ID: Box_O13
+						ID: Box_O14
+						ID: Box_O15
+						ID: Box_O16
+						ID: Box_O17
+						ID: Box_O18
+						ID: Box_O19
+						ID: Box_O20
+						ID: Box_O10
+						ID: Box_O21
+						ID: Box_O1
+						ID: Box_O2
+						ID: Box_O3
+						ID: Box_O4
+						ID: Box_O22
+						ID: Box_O23
+						ID: Box_O24
+						ID: Box_O25
+						ID: Box_O26
+						ID: Box_O27
+						ID: Box_O28
+						ID: Box_O29
+						ID: Box_O30
+						ID: Box_O31
+						ID: Box_O32
+						ID: Intake Wheel Left
+						ID: Intake Wheel Right
+						ID: Box_O33
+						ID: Box_O34
+						ID: Box_O35
+						ID: Box_O36
+						ID: Box_O37
+						ID: Box_O38
+						ID: Box_O39
+						ID: Box_O40
+						ID: Box_O41
+		ID: SCARA_CAD_R0
+				Sensor
+						ID: Devantech SRF05_S0,Controller 1,DIO 11,Controller 1,DIO 12
+				Joint
+						ID: Joint_J0
+				Actuator
+				Robot Component
+						ID: Box
+		ID: SCARA_CAD_R1
+				Sensor
+				Joint
+						ID: Joint_J4
+						ID: Joint_J5
+						ID: Joint_J6
+						ID: Joint_J7
+						ID: Joint_J8
+						ID: Joint_J9
+						ID: Joint_J10
+						ID: Joint_J11
+						ID: Joint_J12
+						ID: Joint_J13
+						ID: Joint_J14
+						ID: Joint_J0
+						ID: Joint_J1
+						ID: Joint_J2
+						ID: Joint_J3
+						ID: Joint_J15
+						ID: Joint_J16
+						ID: Joint_J17
+						ID: Joint_J18
+						ID: Joint_J19
+						ID: Joint_J20
+						ID: Joint_J21
+						ID: Joint_J22
+						ID: Joint_J23
+						ID: Joint_J24
+						ID: Joint_J25
+						ID: Joint_J26
+						ID: Joint_J27
+						ID: Joint_J28
+				Actuator
+				Robot Component
+						ID: Box
+						ID: Cylinder_O3
+						ID: Cylinder_O4
+						ID: Cylinder_O5
+						ID: Cylinder_O6
+						ID: Cylinder_O7
+						ID: Cylinder_O8
+						ID: Cylinder_O9
+						ID: Cylinder_O10
+						ID: Cylinder_O11
+						ID: Cylinder_O12
+						ID: Cylinder_O13
+						ID: Cylinder
+						ID: Cylinder_O0
+						ID: Cylinder_O1
+						ID: Cylinder_O2
+						ID: Cylinder_O14
+						ID: Cylinder_O15
+						ID: Cylinder_O16
+						ID: Cylinder_O17
+						ID: Cylinder_O18
+						ID: Cylinder_O19
+						ID: Cylinder_O20
+						ID: Cylinder_O21
+						ID: Cylinder_O22
+						ID: Cylinder_O23
+						ID: Cylinder_O24
+						ID: Cylinder_O25
+						ID: Cylinder_O26
+						ID: Cylinder_O27
+
+
+Obstacle
+						ID: Box_O0
+						ID: Box_O1
+						ID: Box_O4
+						ID: Box_O5
+						ID: Box_O8
+						ID: Box_O9
+						ID: Box_O7
+						ID: Cylinder_O3
+						ID: Cylinder_O4
+						ID: Cylinder_O5
+						ID: Cylinder_O6
+						ID: Sphere_O0
+						ID: Sphere_O1
+						ID: Sphere_O2
+						ID: Sphere_O3
+						ID: Sphere_O4
+						ID: Sphere_O5
+						ID: Sphere_O6
+						ID: Sphere_O7
+						ID: Sphere_O8
+						ID: Sphere_O9
+						ID: Sphere_O10
+						ID: Sphere_O11
+						ID: Sphere_O12
+						ID: Sphere_O13
+						ID: Sphere_O14
+						ID: Box_O2
+						ID: Box_O3
+						ID: Box_O6
+						ID: Box_O10
+						ID: Box_O11
+						ID: Box_O12
+						ID: Box_O13
+						ID: Box_O20
+						ID: Box_O21
+						ID: Sphere_O15
+						ID: Sphere_O16
+						ID: Sphere_O17
+						ID: Sphere_O18
+						ID: Sphere_O19
+						ID: Sphere_O20
+						ID: Sphere_O21
+						ID: Sphere_O22
+						ID: Sphere_O23
+						ID: Sphere_O24
+						ID: Sphere_O25
+						ID: Sphere_O26
+						ID: Sphere_O27
+						ID: Sphere_O28
+						ID: Sphere_O29
+						ID: Sphere_O30
+						ID: Sphere_O31
+						ID: Sphere_O32
+						ID: Sphere_O33
+						ID: Sphere_O34
+						ID: Sphere_O35
+						ID: Box_O14
+						ID: Box_O15
+						ID: Box_O16
+						ID: Box_O17
+						ID: Box_O18
+						ID: Box_O19
+						ID: Box_O22
+						ID: Box_O23
+						ID: Box_O24
+						ID: Box_O25
+						ID: Box_O26
+						ID: Box_O27
+						ID: Box_O28
+						ID: Box_O29
+						ID: Box_O30
+						ID: Box_O31
+						ID: Box_O32
+						ID: Box_O33
+						ID: Box_O34
+						ID: Box_O35
+						ID: Box_O36
+						ID: Box_O37
+						ID: Box_O38
+						ID: Box_O39
+						ID: Box_O40
+						ID: Box_O41
+						ID: Box_O42
+						ID: Box_O43
+						ID: Box_O44
+						ID: Box_O45
+						ID: Box_O46
+						ID: Box_O47
+						ID: Box_O48
+						ID: Box_O49
