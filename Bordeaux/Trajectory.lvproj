@@ -83,12 +83,24 @@
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
 				<Item Name="Unflatten Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pixmap.llb/Unflatten Pixmap.vi"/>
 			</Item>
+			<Item Name="Add Arc to Exit.vi" Type="VI" URL="../Geometry/Add Arc to Exit.vi"/>
+			<Item Name="Add First Point.vi" Type="VI" URL="../Geometry/Add First Point.vi"/>
+			<Item Name="Center of Circle.vi" Type="VI" URL="../Geometry/Center of Circle.vi"/>
+			<Item Name="Distance from XY Delta.vi" Type="VI" URL="../Geometry/Distance from XY Delta.vi"/>
+			<Item Name="Enforce Robot Rules.vi" Type="VI" URL="../Geometry/Enforce Robot Rules.vi"/>
+			<Item Name="GenNewTraj.vi" Type="VI" URL="../Geometry/GenNewTraj.vi"/>
+			<Item Name="Map to Feet.vi" Type="VI" URL="../Geometry/Map to Feet.vi"/>
 			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Reflect Clothoid Points.vi" Type="VI" URL="../Geometry/Reflect Clothoid Points.vi"/>
+			<Item Name="Rotate Polygon.vi" Type="VI" URL="../Geometry/Rotate Polygon.vi"/>
+			<Item Name="Rotate Rectangle.vi" Type="VI" URL="../Geometry/Rotate Rectangle.vi"/>
+			<Item Name="Scaled Quadrant Vector.vi" Type="VI" URL="../Geometry/Scaled Quadrant Vector.vi"/>
+			<Item Name="Track Rotation.vi" Type="VI" URL="../Geometry/Track Rotation.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
