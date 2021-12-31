@@ -102,9 +102,6 @@
 				<Item Name="Unflatten Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pixmap.llb/Unflatten Pixmap.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Chebybezier1.vi" Type="VI" URL="../Trajectory/Bezier/Cheby/Chebybezier1.vi"/>
-			<Item Name="Chebybezier2.vi" Type="VI" URL="../Trajectory/Bezier/Cheby/Chebybezier2.vi"/>
-			<Item Name="Chebyeval.vi" Type="VI" URL="../Trajectory/Bezier/Cheby/Chebyeval.vi"/>
 			<Item Name="Draw Tangent Circle.vi" Type="VI" URL="../Drawing/Draw Tangent Circle.vi"/>
 			<Item Name="Draw Tangent Line.vi" Type="VI" URL="../Drawing/Draw Tangent Line.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
