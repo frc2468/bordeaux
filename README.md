@@ -1,6 +1,6 @@
 # Bordeaux Pathinator
 
-The path planner used by frc2468 & frc2687
+The path planner used by frc2468, frc2687, and frc2689
 
 ## Getting started
 ```sh
@@ -30,5 +30,4 @@ Then just open `Trajectory.lvproj` and run `Trajectory Builder.vi`
 - Change/clean drawing trajectories
 - Legend for path colors on front panel
 - Multi-select for path visualization
-- Move path-pts by pixel/small val
 - Seperation of velocity profile generation from path generation
