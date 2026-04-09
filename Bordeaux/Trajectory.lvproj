@@ -17,6 +17,7 @@
 		<Item Name="Bordeaux" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Trajectory Builder.vi" Type="VI" URL="../../../../bordeaux/Bordeaux/Trajectory Builder.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Bordeaux" Type="EXE">
