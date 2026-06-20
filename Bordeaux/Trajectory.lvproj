@@ -17,7 +17,6 @@
 		<Item Name="Bordeaux" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Test Tree.vi" Type="VI" URL="../../../Test Tree.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Bordeaux" Type="EXE">
